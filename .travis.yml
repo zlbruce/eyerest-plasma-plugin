@@ -2,6 +2,8 @@ language: cpp
 compiler:
  - gcc
  - clang
-install: sudo apt-get -y install cmake make kde-workspace-dev
+install:
+  - sudo apt-get update
+  - sudo apt-get -y install cmake make kde-workspace-dev
 # Change this to your needs
 script: cmake . && make
