@@ -1,6 +1,8 @@
 eyerest-plasma-plugin
 =====================
 
+[![Build Status](https://travis-ci.org/zlbruce/eyerest-plasma-plugin.svg?branch=master)](https://travis-ci.org/zlbruce/eyerest-plasma-plugin)
+
 plasma plugin for for [eyerest](https://github.com/zlbruce/eyerest)
 
 you must install eyerest first
